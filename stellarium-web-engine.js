@@ -1,1 +1,1 @@
-// placeholder for Stellarium engine JS
+// placeholder JS
